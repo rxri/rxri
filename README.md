@@ -1,4 +1,4 @@
-![banner](https://cdn.ririxi.dev/Dv-s_adEFDMRUTpL.png)
+![banner](https://cdn.ririxi.dev/mbluVPEWYJL2uuHd.png)
 
 ### #about_me
 
