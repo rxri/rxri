@@ -1,86 +1,15 @@
 ![banner](https://cdn.ririxi.dev/mbluVPEWYJL2uuHd.png)
 
-### #about_me
+### Hey, I'm ririxi 👋
 
-> i'm ririxi (she/her), a software developer focused on open-source projects.
+I'm a software developer focused on open-source projects.
 
-- email: _[hello@ririxi.dev](mailto:hello@ririxi.dev)_
-- telegram: _[@ririxi](https://t.me/ririxi)_
+## 💼 About me
+I'm a full-stack developer that uses modern technologies like React, Vue, TypeScript and more.
 
-### #dev
+If you need to see my GPG key click here, **[287C51A74A84B07C](https://github.com/rxri.gpg)**.
 
- <details>
-  <summary>
-     #public_gpg-key_🔐
-  </summary>
+## 📫 Contact
 
-64-bit: `287C51A74A84B07C`
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-=BwZV
------END PGP PUBLIC KEY BLOCK-----
-```
-
-</details>
+You can contact me on **[telegram: @ririxi](https://t.me/ririxi)** or
+send an **[email: hey@ririxi.dev](mailto:hey@ririxi.dev)**
