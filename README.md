@@ -1,4 +1,6 @@
-![banner](https://cdn.ririxi.dev/mbluVPEWYJL2uuHd.png)
+<p align="center">
+  <img src="https://cdn.ririxi.dev/VMxPkTyvv42N5CXi1.png" width="85%" height="85%" />
+</p>
 
 ### Hey, I'm ririxi 👋
 
