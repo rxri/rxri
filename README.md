@@ -32,9 +32,9 @@ Full-Stack Developer focused on open-source projects.
 
 ### Databases
 ![MySQL Badge](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MariaDB Badge](https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Redis Badge](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 
 ### General
@@ -46,7 +46,7 @@ Full-Stack Developer focused on open-source projects.
 ![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)
 
-## What I do
+## 🌟 What I do
 - I'm maintainer of [Spicetify](https://spicetify.app): Powerful CLI tool to take control of the Spotify client
 - I'm an author of [OpenCore Web Utilities](https://github.com/ocwebutils): Web-based tools for creating *[OpenCore](https://github.com/acidanthera/OpenCorePkg)*'s configs
 - CEO of [SakiLabs](https://github.com/sakilabs)
