@@ -45,7 +45,7 @@ Full-Stack Developer focused on open-source projects.
 ![GitHub Actions Badge](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![Google Cloud Badge](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)
 
