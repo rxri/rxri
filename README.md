@@ -64,8 +64,10 @@ Full-Stack Developer focused on open-source projects.
 - CEO of [SakiLabs](https://github.com/sakilabs).
 
 ## 📫 Contact
-- You can email me at [hey@ririxi.dev](mailto:hey@ririxi.dev),
-- Write a private message on [Telegram](https://t.me/ririxi).
+- You can email me at [hey@ririxi.dev](mailto:hey@ririxi.dev) for general inquiries,
+  - if you would like to email me about a job opportunity, please do so via [hey+jobs@ririxi.dev](mailto:hey+jobs@ririxi.dev),
+- write a private message on [Telegram](https://t.me/ririxi),
+- or you can add my discord, [ririxi](https://discord.com/users/192490421308489731).
 
 ------
 [public key](https://github.com/rxri.gpg). [sakilabs](https://github.com/sakilabs).
