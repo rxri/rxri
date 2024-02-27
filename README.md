@@ -1,7 +1,7 @@
 <img align="right" src=".github/assets/banner.jpg" width="40%" height="40%" />
 
 
-## hey, i am ririxi :3
+## haii, i am ririxi :3 ≽^•⩊•^≼
 Full-Stack Developer focused on open-source projects.
 <br/>Silly anime girl on the internet.
 
