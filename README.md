@@ -16,7 +16,7 @@ Full-Stack Developer focused on open-source projects.
 
 ### Web-stack
 [![React.js badge](https://img.shields.io/badge/react.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js Badge](https://img.shields.io/badge/nuxt.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Next.js Badge](https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Vue.js Badge](https://img.shields.io/badge/vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
 [![Nuxt.js Badge](https://img.shields.io/badge/nuxt.js-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)](https://nuxt.com/)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://wikipedia.org/wiki/HTML)
