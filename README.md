@@ -71,3 +71,6 @@ Full-Stack Developer focused on open-source projects.
 
 ------
 [public key](https://github.com/rxri.gpg). [sakilabs](https://github.com/sakilabs).
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; background-repeat: no-repeat; width: 130vw; background-size: 100% 100%; opacity: 0.2; background: url('https://github.com/rxri/rxri/assets/9348108/7bc82068-9aa3-4244-9dc4-17c8c97bdaa3');]{x0000}$}
