@@ -52,7 +52,7 @@ Full-Stack Developer focused on open-source projects.
 [![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
 <details>
   <summary>Learning</summary>
-  
+
   [![AWS Badge](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
   [![RabbitMQ Badge](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
   [![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
@@ -73,4 +73,4 @@ Full-Stack Developer focused on open-source projects.
 [public key](https://github.com/rxri.gpg). [sakilabs](https://github.com/sakilabs).
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; background-repeat: no-repeat; width: 130vw; background-size: 100% 100%; opacity: 0.2; background: url('https://github.com/rxri/rxri/assets/9348108/7bc82068-9aa3-4244-9dc4-17c8c97bdaa3');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; background-size: cover; background-repeat: no-repeat; width: 130vw; opacity: 0.3; background: url('https://github.com/rxri/rxri/assets/9348108/7bc82068-9aa3-4244-9dc4-17c8c97bdaa3');]{x0000}$}
