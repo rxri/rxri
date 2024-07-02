@@ -1,9 +1,10 @@
-<img align="right" src=".github/assets/banner.jpg" width="40%" height="40%" />
+<img align="right" src=".github/assets/banner.jpg" width="30%" height="30%" />
 
+silly anime girl on the internet.<br/>
+maintainer of [spicetify](https://github.com/spicetify/cli). 
 
-## haii, i am ririxi :3 ≽^•⩊•^≼
-Full-Stack Developer focused on open-source projects.
-<br/>Silly anime girl on the internet.
+<details>
+  <summary>more details about me</summary>
 
 ## 💼 Experience
 
@@ -50,24 +51,13 @@ Full-Stack Developer focused on open-source projects.
 [![Cloudflare Badge](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
 [![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
-<details>
-  <summary>Learning</summary>
 
-  [![AWS Badge](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-  [![RabbitMQ Badge](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
-  [![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
+#### Learning
+[![AWS Badge](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=aws&logoColor=white)](https://aws.amazon.com/)
+[![RabbitMQ Badge](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+[![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/swift/)
 </details>
 
-## 🌟 What I do
-- Maintainer of [Spicetify](https://spicetify.app): Powerful CLI tool to take control of the Spotify client,
-- Creator of [OpenCore Web Utilities](https://github.com/ocwebutils): Web-based tools for creating *[OpenCore](https://github.com/acidanthera/OpenCorePkg)*'s configs,
-- CEO of [SakiLabs](https://github.com/sakilabs).
-
-## 📫 Contact
-- You can email me at [hey@ririxi.dev](mailto:hey@ririxi.dev) for general inquiries,
-  - if you would like to email me about a job opportunity, please do so via [hey+jobs@ririxi.dev](mailto:hey+jobs@ririxi.dev),
-- write a private message on [Telegram](https://t.me/ririxi),
-- or you can add my discord, [ririxi](https://discord.com/users/192490421308489731).
-
 ------
-[public key](https://github.com/rxri.gpg). [sakilabs](https://github.com/sakilabs).
+[public key](https://github.com/rxri.gpg). [sakilabs](https://github.com/sakilabs).<br/>
+contact: **hey [at] ririxi.dev**. [telegram: @ririxi](https://t.me/ririxi). [discord: @ririxi](https://discord.com/users/192490421308489731)
