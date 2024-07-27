@@ -1,7 +1,6 @@
 <img align="right" src=".github/assets/avatar.jpg" width="30%" height="30%" />
 
 silly anime girl on the internet.<br/>
-maintainer of [spicetify](https://github.com/spicetify/cli). 
 
 <details>
   <summary>more details about me</summary>
