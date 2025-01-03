@@ -52,7 +52,7 @@ silly anime girl on the internet.<br/>
 [![Cloudflare Badge](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Cloudflare Workers Badge](https://img.shields.io/badge/cloudflare%20workers-F38020.svg?style=flat&logo=cloudflareworkers&logoColor=white)](https://github.com/features/actions)
 [![Grafana Badge](https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
-[![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black&color=white)](https://wikipedia.org/wiki/Linux)
+[![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
 [![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
 
 #### Learning
