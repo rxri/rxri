@@ -50,7 +50,7 @@ silly anime girl on the internet.<br/>
 [![GitLab Badge](https://img.shields.io/badge/gitlab-%23181717?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![Google Cloud Badge](https://img.shields.io/badge/google%20cloud-%234285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Cloudflare Badge](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![Cloudflare Workers Badge](https://img.shields.io/badge/cloudflare%20workers-F38020.svg?style=flat&logo=cloudflareworkers&logoColor=white)](https://github.com/features/actions)
+[![Cloudflare Workers Badge](https://img.shields.io/badge/cloudflare%20workers-F38020.svg?style=flat&logo=cloudflareworkers&logoColor=white)](https://workers.cloudflare.com/)
 [![Grafana Badge](https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com/)
 [![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
 [![Windows Server Badge](https://img.shields.io/badge/windows%20server-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
