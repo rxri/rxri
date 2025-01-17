@@ -63,4 +63,4 @@ silly anime girl on the internet.<br/>
 
 ------
 [public key](https://github.com/rxri.gpg). [sakilabs](https://github.com/sakilabs).<br/>
-contact: **hey [at] ririxi.dev**. [telegram: @ririxi](https://t.me/ririxi). [discord: @ririxi](https://discord.com/users/192490421308489731)
+contact: `cat [at] ririxi.dev` / `ririxi [at] sakilabs.com`. [telegram: @ririxi](https://t.me/ririxi). [discord: @ririxi](https://discord.com/users/192490421308489731)
