@@ -1,6 +1,6 @@
 <img align="right" src=".github/assets/avatar.jpg" width="30%" height="30%" />
 
-silly anime girl on the internet.<br/>
+silly girl on the internet.<br/>
 
 <details>
   <summary>more details about me</summary>
