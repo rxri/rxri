@@ -1,4 +1,4 @@
-<img align="right" src=".github/assets/avatar.jpg" width="30%" height="30%" />
+<img align="right" src=".github/assets/avatar.jpg" width="30%" />
 
 silly girl on the internet.<br/>
 
