@@ -1,4 +1,4 @@
-<img align="right" src=".github/assets/avatar.jpg" width="30%" />
+<img src=".github/assets/banner.jpg" />
 
 silly girl on the internet.<br/>
 
@@ -63,4 +63,6 @@ silly girl on the internet.<br/>
 
 ------
 [public key](https://github.com/rxri.gpg). [sakilabs](https://github.com/sakilabs).<br/>
-contact: `cat [at] ririxi.dev` / `ririxi [at] sakilabs.com`. [telegram: @ririxi](https://t.me/ririxi). [discord: @ririxi](https://discord.com/users/192490421308489731)
+contact: `cat [at] ririxi.dev` / `ririxi [at] sakilabs.com`. [telegram: @ririxi](https://t.me/ririxi). [discord: @ririxi](https://discord.com/users/192490421308489731)*
+
+\* If you intend to contact me over Discord, please send an email first with your inquiry
